@@ -11,6 +11,7 @@ package com.mycompany.projectarchit;
 public class ProjectArchit {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello from Archit");
+        System.out.println("In Class Exercise");
     }
 }
